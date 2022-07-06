@@ -1,0 +1,12 @@
+/* A selector is what is used to target an html element in order to give it styling */
+
+/* selector types at tags (name of the html tag), ids (name of the id with # in front of it)
+and classes (name of the class with a period in fron of it) */
+
+body{
+    padding:5px
+}
+.goremagala{
+    height: 400px;
+    width: auto;
+}
